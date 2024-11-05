@@ -12,6 +12,9 @@ const Header = () => (
             <meta name="og:title" content="Little Lemon"/>
             <meta name="og:description" content="Little Lemon Restaurant"/>
             <meta name="og:image" content={require('../assets/Logo.svg')}/>
+            <meta name="format-detection" content="telephone=yes"/>
+            <meta name="HandheldFriendly" content="true"/> 
+            <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
             <title>Little Lemon</title>
         </Helmet>
 
