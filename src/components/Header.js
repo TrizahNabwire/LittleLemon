@@ -15,6 +15,10 @@ const Header = () => (
             <meta name="format-detection" content="telephone=yes"/>
             <meta name="HandheldFriendly" content="true"/> 
             <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+            <meta name="author" content="Trizah Nabwire" />
+            <meta name="language" content="english" />
+            <meta name="rating" content="safe for kids" />
+            
             <title>Little Lemon</title>
         </Helmet>
 
