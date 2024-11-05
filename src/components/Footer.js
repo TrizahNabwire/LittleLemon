@@ -4,7 +4,7 @@ import logo from '../assets/Logo.svg'; // Adjust the path as needed
 
 const Footer = () => (
     <footer style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px', backgroundColor: '#f1f1f1' }}>
-        <img src={logo} alt="Logo" style={{ width: '50px' }} />
+        <img src={logo} alt="Logo" style={{ width: '250px' }} />
         
         <div style={{ display: 'flex', flexDirection: 'column' }}>
             <nav>
