@@ -1,6 +1,6 @@
 // Footer.js
 import React from 'react';
-import logo from '../assets/Logo.svg'; // Adjust the path as needed
+import logo from '../assets/Logo.svg';
 
 const Footer = () => (
     <footer style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'center', padding: '20px', backgroundColor: '#f1f1f1' }}>
